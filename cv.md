@@ -42,12 +42,12 @@ I want to connect my future with the development of software products._
 
 ## __Code examples:__
 ```
-const cities = ['Moskow', 'Minsk', 'Kiev']
+//Convert number to reversed array of digits
 
-const cityInfo = (city, index) =>
-  `${city} is at the index ${index} in the cities array`
-
-cities.forEach((city, index) => console.log(cityInfo(city, index)))
+function digitize(n) {
+    let result = ("" + n).split("").map(Number).reverse()
+    return result
+  }
 ```
 ---
 
@@ -56,6 +56,3 @@ cities.forEach((city, index) => console.log(cityInfo(city, index)))
 - English (A2)
 
 ---
-
-
-
