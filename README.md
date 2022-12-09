@@ -1,1 +1,1 @@
-https://ozoonee.github.io/rsschool-cv/cv
+https://ozoonee.github.io/rsschool-cv/
