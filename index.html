@@ -1,13 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>rsschool-cv</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <h1 class="styleClass">Sokolov Alexander</h1>
-</body>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="assets/ico/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Roboto+Slab:wght@200;300&family=Roboto:wght@900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+      <header class="header-container">
+        <div><img class="avatar" src="assets/img/photo.JPG" alt="photo" /></div>
+        <div class="vertical-rows">
+          <div class="row-1"><h1>Alexander Sokolov</h1></div>
+          <div class="row-2">
+          </div>
+        </div>
+      </header>
+      <main>
+        <div class="main-container">
+          <div class="leftbox">
+              <div>
+                  <h2>My contact info:</h2>
+                  <p>Country: Russia</p> 
+                  <p>City: Nizhny Novgorod</p> 
+                  <p>e-mail: sokolov.alexander.1987@gmail.com</p> 
+                  <p>Phone:+7904***3564</p> 
+                  <hr>
+              </div>
+              <div>
+                <h2>Social media:</h2>
+                <p>GitHub: <a href="https://github.com/Ozoonee" class="link">@Ozoonee</a></p>
+                <p>Discord: Mirandola#8721</p>
+                <hr>
+              </div>
+              <div><h2>Languages:</h2> 
+                <ul>
+                    <li>Russian</li>
+                    <li>English (A2)</li>
+                </ul>
+              </div>
+            </div>
+          <div class="rightbox">
+            <div><h2>About me:</h2>
+                <p>I work for an energy company as an engineer. I am fond of programming: I studied Java, Python, now I am interested in learning JS.
+                    In my free time I play the guitar, watch movies, and of course I study programming languages.
+                    I want to connect my future with the development of software products.</p>
+            </div>
+            <div><h2>My skills:</h2>
+                <ol>
+                    <li>Java</li>
+                    <li>JavaScript Basic</li>
+                    <li>Postman</li>
+                    <li>SQL</li>
+                    <li>Git, GitHub</li>
+                    <li>HTML5, Markdown</li>
+                    <li>VS Code, IntelliJ IDEA</li>
+                    <li>OS Windows, Linux (Ubuntu)</li>
+                </ol>
+            </div>
+            <div><h2>Code examples:</h2>
+                <pre class="code">//Convert number to reversed array of digits
+    function digitize(n) {
+        let result = ("" + n).split("").map(Number).reverse()
+        return result}</pre>
+            </div>
+          </div>
+        </div>
+      </main>
+      <footer>
+        <div class="foot-container">
+            <div class="year">
+                <h4>2022</h4>
+            </div>
+            <div class="foot-logo"><a href="https://rs.school/js/" target="_blank">
+                <img src="assets/logo/rs_school_js.svg" alt="rss-logo" class="logo"></a>
+            </div>
+        </div>
+      </footer>
+  </body>
 </html>
