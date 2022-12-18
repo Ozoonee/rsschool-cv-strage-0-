@@ -1,38 +1,41 @@
-__Sokolov Alexander__
-===
+# **Sokolov Alexander**
 
-## __My contact info:__
-- __Country:__ Russia
-- __City:__ Nizhny Novgorod
-- __e-mail:__ sokolov.alexander.1987@gmail.com
-- __Phone:__ +79043993564
+## **My contact info:**
 
----
-
-## __Social media:__
-- __GitHub:__ [Ozoonee](https://github.com/Ozoonee)
-- __Discord:__ Mirandola#8721
+- **Country:** Russia
+- **City:** Nizhny Novgorod
+- **e-mail:** sokolov.alexander.1987@gmail.com
+- **Phone:** +79043993564
 
 ---
 
-## __About me:__
->_I work for an energy company as an engineer. I am fond of programming: I studied Java, Python, now I am interested in learning JS.
-In my free time I play the guitar, watch movies, and of course I study programming languages.
-I want to connect my future with the development of software products._
+## **Social media:**
+
+- **GitHub:** [Ozoonee](https://github.com/Ozoonee)
+- **Discord:** Mirandola#8721
 
 ---
 
-## __My skills:__
+## **About me:**
+
+> _I work for an energy company as an engineer. I am fond of programming: I studied Java, Python, now I am interested in learning JS.
+> In my free time I play the guitar, watch movies, and of course I study programming languages.
+> I want to connect my future with the development of software products._
+
+---
+
+## **My skills:**
+
 1. Java
    - Spring
    - Maven
-   - Gradle 
+   - Gradle
    - Tomcat
 2. JavaScript Basic
 3. Postman
-4. SQL 
-    - MS SQL
-    - PostgreSQL
+4. SQL
+   - MS SQL
+   - PostgreSQL
 5. Git, GitHub
 6. HTML5, Markdown
 7. VS Code, IntelliJ IDEA
@@ -40,7 +43,8 @@ I want to connect my future with the development of software products._
 
 ---
 
-## __Code examples:__
+## **Code examples:**
+
 ```
 //Convert number to reversed array of digits
 
@@ -49,9 +53,11 @@ function digitize(n) {
     return result
   }
 ```
+
 ---
 
-## __Languages:__
+## **Languages:**
+
 - Russian
 - English (A2)
 
